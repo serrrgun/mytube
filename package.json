@@ -1,0 +1,10 @@
+{
+    "name": "mytube",
+    "version": "1.0.0",
+    "description": "Cloning YouTube with Vanilla and NodeJS",
+    "main": "index.js",
+    "author": "Sergey Turichev",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
